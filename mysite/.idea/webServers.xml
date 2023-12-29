@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3242bb8-2081-4894-ae24-646b66059dff" name="baranova.anastasiya" url="http://baranova.anastasiya.students.xpage.dev">
+        <fileTransfer rootFolder="/htdocs/public" host="baranova.anastasiya.students.xpage.dev" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
